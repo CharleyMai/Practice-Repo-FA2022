@@ -2,26 +2,26 @@
 
 ### Fall 2022
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in:
 
-- Course
+-   Precalc
 
-- Course 2
+-   Intro to python
 
-- Course 3
+-   intro to data analytics
 
-- Course 4
+-   computation and programming
 
 **Hobbies:**
 
-I am _passionate about_: 
+I am *passionate about*:
 
-- Thing 1
+-  rubiks cube
 
-- Thing 2
+-   finance
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+-   Thing 3 as shown in this website <https://www.floridapoly.edu>
 
-***
+------------------------------------------------------------------------
 
 > Last modified: YYYY/MM/DD
